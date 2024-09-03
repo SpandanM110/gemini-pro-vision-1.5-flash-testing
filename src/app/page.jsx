@@ -126,8 +126,7 @@ const Home = () => {
     )
   }
   //ggs
-  // hello
-  // yup
+
 
   const getButton = () => {
     if (loading) return null
