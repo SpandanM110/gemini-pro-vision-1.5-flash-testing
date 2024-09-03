@@ -129,7 +129,7 @@ const Home = () => {
   //noice
 //done
 //ok
-//let's see
+//let's see// last shot
 
   const getButton = () => {
     if (loading) return null
