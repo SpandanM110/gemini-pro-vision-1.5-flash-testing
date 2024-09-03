@@ -126,7 +126,7 @@ const Home = () => {
     )
   }
 
-// test
+// test2
   const getButton = () => {
     if (loading) return null
     return (
