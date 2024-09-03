@@ -125,11 +125,7 @@ const Home = () => {
       />
     )
   }
-  //ggs
-  //noice
-//done
-//ok
-//let's see// last shot
+
 
   const getButton = () => {
     if (loading) return null
